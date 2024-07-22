@@ -1,7 +1,11 @@
+import Contact from "./Contact"
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <div>
+      <h1>Hello Worlds</h1>
+      <Contact/>
+    </div>
   );
 }
 
